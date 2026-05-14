@@ -1,8 +1,8 @@
     {
-      "A22": "HOME",
-      "A23": "Norseman House",
+      "A00": "HOME",
+      "A11": "Norseman House",
       "B01": "Dalgety Bay",
-      "B02": "Cardonald",
-      "C10": "Paisley",
+      "C01": "Cardonald",
+      "C02": "Paisley",
       "D01": "Inverness KDH"
     }
